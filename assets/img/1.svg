@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1280" height="720" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="ABeeZee">@import url(https://fonts.googleapis.com/css2?family=ABeeZee%3Aital%2Cwght%400%2C400%3B1%2C400&amp;display=swap);</style>
+  </defs>
+  <path fill="#08080C" d="M60 40h488v132H60z"/>
+  <mask id="a" fill="#fff">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M548 40H60v132l252.5 47H588v-74.5L548 40zm-1 1H61v130h486V41z"/>
+  </mask>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M548 40H60v132l252.5 47H588v-74.5L548 40zm-1 1H61v130h486V41z" fill="#F8FF50"/>
+  <path d="M547.5 40v132h1V40h-1zm.5 131.5H60v1h488v-1zm-.381.824 40 47 .762-.648-40-47-.762.648zM60 40v-1h-1v1h1zm488 0 .934-.358-.246-.642H548v1zM60 172h-1v.831l.817.152L60 172zm252.5 47-.183.983.091.017h.092v-1zm275.5 0v1h1v-1h-1zm0-74.5h1v-.185l-.066-.172-.934.357zM61 41v-1h-1v1h1zm486 0h1v-1h-1v1zM61 171h-1v1h1v-1zm486 0v1h1v-1h-1zM60 41h488v-2H60v2zm1 131V40h-2v132h2zm251.683 46.017-252.5-47-.366 1.966 252.5 47 .366-1.966zM588 218H312.5v2H588v-2zm-1-73.5V219h2v-74.5h-2zM547.066 40.358l40 104.499 1.868-.714-40-104.5-1.868.715zM61 42h486v-2H61v2zm1 129V41h-2v130h2zm485-1H61v2h486v-2zm-1-129v130h2V41h-2z" fill="#F8FF50" mask="url(#a)"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 8.2px;" x="108.512" y="87.635"> </text>
+  <text style="fill: rgb(247, 244, 77); font-family: ABeeZee; font-size: 47px; white-space: pre;" x="86.245" y="116.421">Chain Compatibility</text>
+</svg>

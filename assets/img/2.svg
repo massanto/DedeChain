@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1280" height="720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="m884 213.5 32-8.5h218v100H916l-32-3v-88.5z" fill="#F8FF50"/>
+  <path fill="#08080C" d="M916 206h217v98H916z"/>
+  <text style="fill: rgb(247, 244, 77); font-family: Arial, sans-serif; font-size: 30px; white-space: pre;" x="957.18" y="263.776" transform="matrix(1.148836, 0, 0, 1.180107, -146.466034, -45.596474)">Scalability</text>
+</svg>
